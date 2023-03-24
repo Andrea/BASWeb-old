@@ -1,4 +1,6 @@
 theme: minima
+author:
+  name: Andrea Magnorsky
 name: Bytesize Architecture Sessions
 title: Info site for Bytesize Architecture Sessions
 description: An site to gather knowledge what are and how to run Bytesize Architecture Sessions
