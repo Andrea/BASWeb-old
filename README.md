@@ -41,7 +41,7 @@ Although a host is not mandatory, it can be useful, especially at the start.  Th
 
 
 ## A guide to running your first few sessions
-![Overview]({{images/bytesize-overview.png}})
+![Overview](http://bytesizearchitecturesessions.com/images/bytesize-overview.png)
 
 ### Before the session, prepare people 
 
@@ -76,7 +76,7 @@ This modus operandi might be atypical, here are few reasons why it’s useful:
 * Helps participants self evaluate their perceived understanding of the system, highlighting areas where they can focus on learning more
 * Understand how other people in the team think of the systems
 
-![Image of participants with their individual models]({{images/alone-together.png}})
+![Image of participants with their individual models](http://bytesizearchitecturesessions.com/images/alone-together.png)
 
 #### Consensus
 
