@@ -4,7 +4,7 @@ Bytesize Architecture Sessions are a workshop format that help teams understand 
 
 A  session lasts between 45 and 90 minutes, and has four well defined parts: Session Goal, Alone Together, Consensus and Summary. You can model your systems using different tools. I suggest starting with [C4 Diagrams](https://c4model.com/).
 
-## You rather watch something?
+### Would you rather watch something?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJ0f8fLU2Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
