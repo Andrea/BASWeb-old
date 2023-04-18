@@ -1,0 +1,14 @@
+.bundle/
+vendor/
+
+# jekyll
+
+.jekyll-cache/
+.jekyll-metadata
+build/
+_site/
+
+# ruby
+Gemfile.lock
+
+
