@@ -4,7 +4,7 @@ author:
 name: Bytesize Architecture Sessions
 title: Info site for Bytesize Architecture Sessions
 description: A site about Bytesize Architecture Sessions. Bytesize Architecture Sessions created by Andrea Magnorsky  
-url: https://bytesizearchitecturesessions.com/
+url: https://bytesizearchitecturesessions.com
 include: ["_pages"]
 header_pages:
   - about.md
