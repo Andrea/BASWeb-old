@@ -29,9 +29,9 @@ These are some of the improvements I witnessed when running the sessions with di
 * Learn to actively listen 
 
 Bytesize Sessions are especially valuable for new members of the team or those with less experience. This is especially true in teams that don't do pair programming or have deep silos. The Sessions "open up the 'world'"
-It is hard to overstate how important it is to have an accurate mental model. Studies prove that mental models are particularly important when making difficult and time constrained decisions (Besnard et al. #)[^BGB].
+It is hard to overstate how important it is to have an accurate mental model. Studies prove that mental models are particularly important when making difficult and time constrained decisions(Besnard et al. #)[^BGB].
 
-[^BGB:]Denis Besnard, David Greathead, Gordon Baxter. When mental models go wrong. Co-occurrences in dynamic, critical systems.. International Journal of Human-Computer Studies, 2004, 60 (1), pp.Pages117-128. 10.1016/j.ijhcs.2003.09.001. Hal-00691813
+[^BGB]:Denis Besnard, David Greathead, Gordon Baxter. When mental models go wrong. Co-occurrences in dynamic, critical systems.. International Journal of Human-Computer Studies, 2004, 60 (1), pp.Pages117-128. 10.1016/j.ijhcs.2003.09.001. Hal-00691813
 
 ## Who organises Bytesize Architecture Sessions?
 
