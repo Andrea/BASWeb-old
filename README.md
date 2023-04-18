@@ -1,6 +1,4 @@
 
-# Bytesize Architecture Sessions
-## Overview
 
 Bytesize Architecture Sessions are a workshop format that help teams understand the systems they work on. Each session focuses on a small slice of a system. After some sessions your team will become more homogeneous in the understanding of their systems, grow a consistent vocabulary and ultimately build tools to design the future together.
 
@@ -43,7 +41,7 @@ Although a host is not mandatory, it can be useful, especially at the start.  Th
 
 
 ## A guide to running your first few sessions
-![Overview](bytesize-overview.png)
+![Overview]({{images/bytesize-overview.png}})
 
 ### Before the session, prepare people 
 
@@ -78,7 +76,7 @@ This modus operandi might be atypical, here are few reasons why it’s useful:
 * Helps participants self evaluate their perceived understanding of the system, highlighting areas where they can focus on learning more
 * Understand how other people in the team think of the systems
 
-![Image of participants with their individual models](alone-together.png)
+![Image of participants with their individual models]({{images/alone-together.png}})
 
 #### Consensus
 
