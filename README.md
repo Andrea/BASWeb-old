@@ -4,11 +4,11 @@ Bytesize Architecture Sessions are a workshop format that help teams understand 
 
 A  session lasts between 45 and 90 minutes, and has four well defined parts: Session Goal, Alone Together, Consensus and Summary. You can model your systems using different tools. I suggest starting with [C4 Diagrams](https://c4model.com/).
 
-### Would you rather watch something?
+## Would you rather watch something?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJ0f8fLU2Vw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Why should you use Bytesize Architecture Sessions?
+# Why should you use Bytesize Architecture Sessions?
 
 Consider using Bytesize Architecture Sessions if you experience any of the following common difficulties: 
 
@@ -33,17 +33,17 @@ It is hard to overstate how important it is to have an accurate mental model. St
 
 [^BGB]:Denis Besnard, David Greathead, Gordon Baxter. When mental models go wrong. Co-occurrences in dynamic, critical systems.. International Journal of Human-Computer Studies, 2004, 60 (1), pp.Pages117-128. 10.1016/j.ijhcs.2003.09.001. Hal-00691813
 
-## Who organises Bytesize Architecture Sessions?
+# Who organises Bytesize Architecture Sessions?
 
 Anyone can propose a Bytesize Session. The sessions should feel like they belong to the team.  
 
 Although a host is not mandatory, it can be useful, especially at the start.  The role of the host is to be an enabler, someone that keeps the timing of the session and focuses the discussion on the goal.  The host can be anyone, not necessarily someone leading the team. The host should change from time to time.
 
 
-## A guide to running your first few sessions
+# A guide to running your first few sessions
 ![Overview](http://bytesizearchitecturesessions.com/images/bytesize-overview.png)
 
-### Before the session, prepare people 
+## Before the session, prepare people 
 
 One of the main objectives of the Bytesize Sessions is for a team to have a homogeneous understanding of the system they work with. The right people to attend are all the people that have a high level of influence on that system. 
 
@@ -51,11 +51,11 @@ Start with a team. Invite those that know about what needs to be done, those tha
 
 The recommended modelling tool when starting is [C4](^C4). If the team is not experienced with it, train them on it first. During a Bytesize Session the attendees should focus on modelling, not the modelling tool of choice. 
 
-### Running a Bytesize Architecture Session
+## Running a Bytesize Architecture Session
 
 The key to a good session is ensuring everyone knows what they need to do. At the start of the session explain the overall format, then for each section delve into the specifics. 
 
-#### Goal
+### Goal
 
 This section of the meeting should take about five minutes and it’s about having a _Goal_ for this particular session. A good first session is to model the system that the team actively works on *as it is right now*. Bear in mind that the attendees will have a handful of minutes or less to model this. If the system you are trying to model is too big, choose a subsection to focus on. 
 
@@ -63,7 +63,7 @@ It's good to have a suggestion of what to model before starting a session. Howev
 
 Before moving on to the next section, check that every attendee understands the goal. 
 
-#### Alone Together
+### Alone Together
 
 This section should take ten minutes or less.
 
@@ -78,7 +78,7 @@ This modus operandi might be atypical, here are few reasons why it’s useful:
 
 ![Image of participants with their individual models](http://bytesizearchitecturesessions.com/images/alone-together.png)
 
-#### Consensus
+### Consensus
 
 The longer part of the session, lasting between twenty to thirty minutes. 
 
@@ -89,7 +89,7 @@ It's normal for things to get a little hectic. In order to achieve the goal, des
 The host plays a key role during this time when and if the conversation starts deviating from the goal of the session.
 
 
-#### Summary
+### Summary
 
 The last few minutes of the meeting.
 
@@ -97,7 +97,7 @@ Some retrospection on the workshop. This part of the session is about reviewing 
 
 Optional bonus task: ask for a volunteer to create a clean copy of the diagram, and to bring whatever outstanding questions remain to the next session.
 
-#### Do it again!
+### Do it again!
 
 Repetition is a great way to learn, it is ideal to do another session in a week or two. It shouldn’t be so often that it overwhelms people and it should be often enough to keep familiarity with things discussed.
 
@@ -123,6 +123,8 @@ After many sessions, people asked me to write about it. I thought it wasn't nece
 
 
 
-## More info soon
+# More info soon
 
 Any questions or comments please reach out via mastodon: [@roundcrisis@types.pl](https://types.pl/web/@roundcrisis)
+
+--- 
