@@ -49,7 +49,7 @@ One of the main objectives of the Bytesize Sessions is for a team to have a homo
 
 Start with a team. Invite those that know about what needs to be done, those that build the system, and those that understand the stakeholder requirements best. If not sure, start with the people in the Stand Up. If there are more than ten people in the guest list, consider breaking the meeting into smaller groups.
 
-The recommended modelling tool when starting is [C4](^C4). If the team is not experienced with it, train them on it first. During a Bytesize Session the attendees should focus on modelling, not the modelling tool of choice. 
+The recommended modelling tool when starting is [C4](https://c4model.com/). If the team is not experienced with it, train them on it first. During a Bytesize Session the attendees should focus on modelling, not the modelling tool of choice. 
 
 ## Running a Bytesize Architecture Session
 
